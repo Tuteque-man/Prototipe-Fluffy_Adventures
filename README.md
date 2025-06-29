@@ -1,7 +1,39 @@
-Fluffy Adventures is a cute 2D platform game where you guide a curious kitten through fields of grass, lush bushes, tall trees, and colorful little houses. Jump, explore, and experience a cozy adventure in a nature-inspired world. Created with HTML5, CSS, and JavaScript as a personal project by the Formidable Tuteque-man.
-🎮 Gameplay
-☁️ Jump between natural platforms
-🌿 Relaxing environments and soft visuals
-🐱 Ideal for casual players of all ages
-🛠️ Technologies used: Python
-Sprites and pixel art style graphics
+# 🐾 Fluffy Adventures
+
+**Fluffy Adventures** es un encantador juego de plataformas en 2D desarrollado para PC con **Pygame**, donde acompañas a un curioso gatito a través de campos de hierba, arbustos frondosos, árboles altos y coloridas casitas. Salta, explora y vive una aventura relajante en un mundo inspirado en la naturaleza, diseñado con estilo pixel art.  
+Creado con amor por **el Formidable Tuteque-man** como proyecto personal.
+
+---
+
+## 🎮 Jugabilidad
+
+- ☁️ Saltos suaves entre plataformas naturales
+- 🌿 Ambientes tranquilos y visuales acogedores
+- 🐱 Ideal para jugadores casuales y amantes de los gatos
+- 🎨 Estilo artístico pixelado y nostálgico
+
+---
+
+## 🧠 Características
+
+- Plataforma 2D desarrollada con **Pygame**
+- Controles simples y fluidez en el movimiento del personaje
+- Diseño relajante ideal para sesiones cortas o pausas creativas
+- Compatible con sistemas de escritorio (Windows/Linux)
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Python 3.x**  
+- **Pygame** – Motor de desarrollo para juegos 2D  
+- Sprites y fondos en estilo **pixel art**
+
+---
+
+## ⚙️ Requisitos
+
+- Python 3.8 o superior  
+- Librería `pygame` instalada  
+  ```bash
+  pip install pygame
