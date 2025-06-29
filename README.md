@@ -1,2 +1,13 @@
-# Prototipe-Fluffy_Adventures
-A lighthearted 2D game where you guide a playful cat through a cozy, nature-filled world. Jump through grassy fields, explore between bushes, hop over trees, and discover tiny houses scattered throughout the land. Simple, peaceful, and charming—just like your favorite childhood game, but with extra fluff.
+Aventuras Peluditas es un tierno juego de plataformas en 2D donde guías a un gatito curioso a través de campos de pasto, arbustos frondosos, árboles altos y pequeñas casitas coloridas. Salta, explora y vive una aventura acogedora en un mundo inspirado en la naturaleza. Creado con HTML5, CSS y JavaScript como un proyecto personal por el increíble Tuteque-man.
+
+🎮 Jugabilidad
+
+- ☁️ Salta entre plataformas naturales
+- 🌿 Entornos relajantes y visuales suaves
+- 🐱 Ideal para jugadores casuales de todas las edades
+- 📱 Diseñado para jugar desde dispositivos móviles (tap y gestos)
+
+🛠️ Tecnologías utilizadas
+
+- Python
+- Sprites y gráficos estilo pixel art
