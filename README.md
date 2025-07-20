@@ -1,39 +1,41 @@
 # 🐾 Fluffy Adventures
 
-**Fluffy Adventures** es un encantador juego de plataformas en 2D desarrollado para PC con **Pygame**, donde acompañas a un curioso gatito a través de campos de hierba, arbustos frondosos, árboles altos y coloridas casitas. Salta, explora y vive una aventura relajante en un mundo inspirado en la naturaleza, diseñado con estilo pixel art.  
-Creado con amor por **el Formidable Tuteque-man** como proyecto personal.
+![Project Screenshot](https://github.com/user-attachments/assets/4675e5c8-00ce-4da7-8041-3a660fbf156c)
+
+**Fluffy Adventures** is a charming 2D platformer for PC built with **Pygame**. Join a curious little kitten as it leaps through grassy fields, lush bushes, towering trees, and colorful houses. Jump, explore, and enjoy a relaxing adventure in a nature-inspired world crafted in pixel art style.  
+Lovingly created by **the Formidable Tuteque-man** as a personal project.
 
 ---
 
-## 🎮 Jugabilidad
+## 🎮 Gameplay
 
-- ☁️ Saltos suaves entre plataformas naturales
-- 🌿 Ambientes tranquilos y visuales acogedores
-- 🐱 Ideal para jugadores casuales y amantes de los gatos
-- 🎨 Estilo artístico pixelado y nostálgico
-
----
-
-## 🧠 Características
-
-- Plataforma 2D desarrollada con **Pygame**
-- Controles simples y fluidez en el movimiento del personaje
-- Diseño relajante ideal para sesiones cortas o pausas creativas
-- Compatible con sistemas de escritorio (Windows/Linux)
+- ☁️ Smooth jumps across natural platforms  
+- 🌿 Calm environments and cozy visuals  
+- 🐱 Perfect for casual gamers and cat lovers  
+- 🎨 Nostalgic pixel-art aesthetic
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🧠 Features
+
+- 2D platformer developed with **Pygame**  
+- Simple controls and fluid character movement  
+- Relaxing design ideal for short sessions or creative breaks  
+- Desktop support for Windows/Linux
+
+---
+
+## 🛠️ Technologies
 
 - **Python 3.x**  
-- **Pygame** – Motor de desarrollo para juegos 2D  
-- Sprites y fondos en estilo **pixel art**
+- **Pygame** – 2D game development library  
+- Sprites and backgrounds in pixel art style
 
 ---
 
-## ⚙️ Requisitos
+## ⚙️ Requirements
 
-- Python 3.8 o superior  
-- Librería `pygame` instalada  
+- Python 3.8 or higher  
+- Installed `pygame` library  
   ```bash
   pip install pygame
