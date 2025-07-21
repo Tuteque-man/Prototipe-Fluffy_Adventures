@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/4675e5c8-00ce-4da7-8041-3a660fbf156c" alt="Project Screenshot" width="700" />
 <br>
-*Fluffy Adventures* is a charming 2D platformer for PC built with **Pygame**. Join a curious little kitten as it leaps through grassy fields, lush bushes, towering trees, and colorful houses. Jump, explore, and enjoy a relaxing adventure in a nature-inspired world crafted in pixel art style.  
+**Fluffy Adventures** is a charming 2D platformer for PC built with **Pygame**. Join a curious little kitten as it leaps through grassy fields, lush bushes, towering trees, and colorful houses. Jump, explore, and enjoy a relaxing adventure in a nature-inspired world crafted in pixel art style.  
 Lovingly created by **the Formidable Tuteque-man** as a personal project.
 
 ---
